@@ -21,7 +21,7 @@ class Student{
         System.out.println("Name:"+ name+" "+"Age:"+" "+ age+" " + "Mark:"+mark);
     }
 }
-class Main {
+class StudentClass {
     public static void main(String[] args) {
 
         Student sdt = new Student("venisha",23,85);
