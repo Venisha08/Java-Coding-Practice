@@ -23,7 +23,7 @@ class Animal{
             }
         }
 
-class Main {
+class Animal_Sounds_Method_Overriding {
     public static void main(String[] args) {
      dog d = new dog();
        d.sound();
